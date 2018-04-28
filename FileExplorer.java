@@ -31,32 +31,8 @@
 
 	import java.net.URL;
 
-	/**
-	A basic File Browser.  Requires 1.6+ for the Desktop & SwingWorker
-	classes, amongst other minor things.
-
-	Includes support classes FileTableModel & FileTreeCellRenderer.
-
-	@TODO Bugs
-	<li>Fix keyboard focus issues - especially when functions like
-	rename/delete etc. are called that update nodes & file lists.
-	<li>Needs more testing in general.
-
-	@TODO Functionality
-	<li>Double clicking a directory in the table, should update the tree
-	<li>Move progress bar?
-	<li>Add other file display modes (besides table) in CardLayout?
-	<li>Menus + other cruft?
-	<li>Implement history/back
-	<li>Allow multiple selection
-	<li>Add file search
-
-	@author Andrew Thompson
-	@version 2011-06-08
-	@see http://codereview.stackexchange.com/q/4446/7784
-	@license LGPL
-	*/
-	class FileBrowser {
+	
+	class FileExplorer{
 
 	    /** Title of the application */
 	    public static final String APP_TITLE = "FileBro";
