@@ -1,4 +1,4 @@
-Hồ HÀ Giang - 17IT2
+Hồ Hà Giang - 17IT2
 Mã đề: 05.
 
 1. Giới thiệu FileExplorer.
