@@ -1,6 +1,8 @@
 Hồ Hà Giang - 17IT2
 Mã đề: 05.
 
+* Link video hưóng dẫn: https://www.youtube.com/watch?v=U9bI4LtjnPY
+
 1. Giới thiệu FileExplorer.
 
 1.1. Chạy FileExplorer.java.
