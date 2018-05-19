@@ -36,7 +36,7 @@
 	public class fileexpflorer {
 
 	    /** Title of the application */
-	    public static final String APP_TITLE = "FileMan";
+	    public static final String APP_TITLE = "FileExplorer";
 	    /** Used to open/edit/print files. */
 	    private Desktop desktop;
 	    /** Provides nice icons and names for files. */
