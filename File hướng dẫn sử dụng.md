@@ -10,6 +10,8 @@ Mã đề: 05.
 	 + Click trái vào dấu (-) đứng trước một đối tượng thì trong cây thư mục sẽ được ẩn.
 	- Cửa sổ bên phải: liệt kê chi tiết (gồm các thư mục con và tập tin) của đối tượng được chọn trong cửa sổ bên trái.
 	- Thanh dưới cùng có nút "Delete".
+
+
 2.Thao tác Xóa 1 thư mục.
 2.1.Mở thư mục: Khi click vào đối tượng(thư mục mình cần xóa) ở cửa sổ bên trái thì đối tượng đó sẽ được mở lên và hiển thị các file có trong đối tượng ở cửa sổ bên phải.
 2.2.Nhấn nút "Delete" và thực hiện xóa thư mục mà mình đã chọn.
