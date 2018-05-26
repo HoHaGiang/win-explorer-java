@@ -13,9 +13,11 @@ Bước 3: Gõ lệnh "cd" để chuyển đến nguồn code  project bài thi:
 
 ví dụ: cd C:\Users\PC\eclipse-workspace\thietke\src 
 
-Và nó sẽ xuất hiện dòng lệnh: C:\Users\PC\eclipse-workspace\thietke\src>  => thì tiếp tục nhập lệnh " javac  wineplorer\fileexpflorer.java "  để biên dịch chương trình.
+Bước 4: Dùng lệnh "javac wineplorer\fileexpflorer.java " để biên dịch chương trình
 
-Bước 4: Sau khi xong bước 3 nó sẽ xuất hiện dòng lệnh " C:\Users\PC\eclipse-workspace\thietke\src> " .Để tiếp tục chạy chương trình thì ta dùng lệnh " java " 
+ví dụ: C:\Users\PC\eclipse-workspace\thietke\src>javac  wineplorer\fileexpflorer.java
+
+Bước 5: Sau khi xong bước 4 nó sẽ xuất hiện dòng lệnh " C:\Users\PC\eclipse-workspace\thietke\src> " .Để tiếp tục chạy chương trình thì ta dùng lệnh " java " 
 
 ví dụ: C:\Users\PC\eclipse-workspace\thietke\src>java wineplorer.fileexpflorer
 
