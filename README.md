@@ -3,7 +3,7 @@ Mã đề: 05.
 
 * Link video hưóng dẫn: https://www.youtube.com/watch?v=U9bI4LtjnPY
 
-Hướng dẫn chạy code:
+I.Hướng dẫn chạy code:
 
 Bước 1: Download project từ GitHub về máy.
 
@@ -26,6 +26,7 @@ Vậy là đã thành công....
 
 
 
+II. CÁCH SỬ DỤNG:
 
 
 1. Giới thiệu FileExplorer.
