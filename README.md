@@ -3,6 +3,28 @@ Mã đề: 05.
 
 * Link video hưóng dẫn: https://www.youtube.com/watch?v=U9bI4LtjnPY
 
+Hướng dẫn chạy code:
+
+Bước 1: Download project từ GitHub về máy.
+
+Bước 2: Dùng tổ hợp phím Win+R để mở Command Line => gõ lệnh "cmd" => nhấn Enter để bắt đầu bước 3.
+
+Bước 3: Gõ lệnh "cd" để chuyển đến nguồn code  project bài thi:
+
+ví dụ: cd C:\Users\PC\eclipse-workspace\thietke\src 
+
+Và nó sẽ xuất hiện dòng lệnh: C:\Users\PC\eclipse-workspace\thietke\src>  => thì tiếp tục nhập lệnh " javac  wineplorer\fileexpflorer.java "  để biên dịch chương trình.
+
+Bước 4: Sau khi xong bước 3 nó sẽ xuất hiện dòng lệnh " C:\Users\PC\eclipse-workspace\thietke\src> " .Để tiếp tục chạy chương trình thì ta dùng lệnh " java " 
+
+ví dụ: C:\Users\PC\eclipse-workspace\thietke\src>java wineplorer.fileexpflorer
+
+Vậy là đã thành công....
+
+
+
+
+
 1. Giới thiệu FileExplorer.
 
 1.1. Chạy FileExplorer.java.
